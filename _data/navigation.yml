@@ -1,10 +1,12 @@
-main:
+﻿main:
   - title: "Home"
     url: /
   - title: "Packages"
     url: /#packages
-  - title: "Destinations"
-    url: /#destinations
+  - title: "Rome"
+    url: /rome/
+  - title: "Nightlife"
+    url: /rome-nightlife/
   - title: "Snow"
     url: /#snow
   - title: "Stay"

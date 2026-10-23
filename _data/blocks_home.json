@@ -24,6 +24,12 @@
     "html": "<div class=\"nt\"><section class=\"nt-sec\" id=\"snow\"><div class=\"nt-w\"><p class=\"nt-eb\">Winter, December to March</p><h2>Snow, 1.5 to 2 hours from Rome</h2><p class=\"nt-lead\">Skiing, snowboarding, sledding, snow tubing and snowshoe walks.</p><div class=\"nt-g\"><div class=\"nt-c\"><h3>Monte Livata</h3><p>About 75 km from Rome. Small resort, snowshoe trails, good for families.</p></div><div class=\"nt-c\"><h3>Terminillo &amp; Campo Staffi</h3><p>About 100 km. &ldquo;Rome&rsquo;s mountain&rdquo; with ski schools, a snowpark, sledding and tubing.</p></div><div class=\"nt-c\"><h3>Campo Felice, Ovindoli &amp; more</h3><p>About 110 km and beyond: bigger slopes, Campo Imperatore, Roccaraso for a weekend.</p></div></div></div></section></div>"
   },
   {
+    "id": "nightlife",
+    "nome": "Nightlife",
+    "enabled": true,
+    "html": "<div class=\"nt\"><section class=\"nt-sec\" id=\"nightlife\"><div class=\"nt-w\"><p class=\"nt-eb\">Young &amp; nightlife</p><h2>Rome by night</h2><p class=\"nt-lead\">Rooftop aperitivo, bar crawls with a local guide, club nights in Testaccio and Ostiense. For travellers who want to meet people and see Rome after dark.</p><a class=\"nt-btn\" href=\"__BASEURL__/rome-nightlife/\">Night tours</a><a class=\"nt-btn o\" href=\"__BASEURL__/rome/\">All attractions in Rome</a></div></section></div>"
+  },
+  {
     "id": "stay",
     "nome": "Where to stay",
     "enabled": true,

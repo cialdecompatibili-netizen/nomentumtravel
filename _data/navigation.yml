@@ -1,11 +1,13 @@
 main:
   - title: "Home"
     url: /
+  - title: "Packages"
+    url: /#packages
   - title: "Destinations"
     url: /#destinations
   - title: "Snow"
     url: /#snow
-  - title: "Where to stay"
+  - title: "Stay"
     url: /#stay
   - title: "Contact"
     url: /contatti/

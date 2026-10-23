@@ -3,8 +3,8 @@ main:
     url: /
   - title: "Destinations"
     url: /#destinations
-  - title: "Seasons"
-    url: /#seasons
+  - title: "Snow"
+    url: /#snow
   - title: "Where to stay"
     url: /#stay
   - title: "Contact"

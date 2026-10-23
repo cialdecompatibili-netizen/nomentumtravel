@@ -1,9 +1,11 @@
 main:
   - title: "Home"
     url: /
-  - title: "Trips"
-    url: /#trips
-  - title: "Stay"
-    url: https://cialdecompatibili-netizen.github.io/villanomentum/
+  - title: "Destinations"
+    url: /#destinations
+  - title: "Seasons"
+    url: /#seasons
+  - title: "Where to stay"
+    url: /#stay
   - title: "Contact"
     url: /contatti/

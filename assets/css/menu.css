@@ -163,3 +163,8 @@ a.nv__dd-item.active, a.nv__dd-item.active:visited, a.nv__dd-item.active:hover {
 /* Pulsante lingua: solo bandierina, senza codice IT/EN */
 .nv__lang-btn .nv__lang-code { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 .nv__lang-btn .nv__flag { margin: 0; }
+
+/* Nomentum Travel: brand piu' compatto cosi' il menu resta in fila su desktop (niente modalita' mobile); logo RF e carrello nascosti (shop spento) */
+.nv__brand{letter-spacing:.06em;font-size:1.1rem}
+.nv__logo{display:none}
+.nv__cart{display:none}
